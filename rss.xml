@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Titanclouds]]></title>
         <description><![CDATA[Titanclouds]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/titanclouds/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 23:55:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jan 2016 23:57:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/titanclouds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Titan Clouds</p>]]></description>
+            <link>https://thegrid.ai/titanclouds/8a47a71f-84d9-4a97-ace3-5008bad31259/index.html</link>
+            <guid isPermaLink="false">8a47a71f-84d9-4a97-ace3-5008bad31259</guid>
+            <pubDate>Thu, 28 Jan 2016 23:56:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae1197d6-db95-41d1-98d4-1b4c1fe71644.jpg" alt="" title="">]]></description>
-            <link>undefined5743b7c0-4269-41ef-8d78-289be346859f/index.html</link>
+            <link>https://thegrid.ai/titanclouds/5743b7c0-4269-41ef-8d78-289be346859f/index.html</link>
             <guid isPermaLink="false">5743b7c0-4269-41ef-8d78-289be346859f</guid>
             <pubDate>Thu, 28 Jan 2016 23:55:07 GMT</pubDate>
         </item>
