@@ -1,19 +1,4 @@
-name: Titanclouds
-favicon: null
-layout_spectrum: 0.9165245885960758
 typography_spectrum: 0.6747957842890173
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -25,4 +10,19 @@ color:
   lightness: 0.4402585800271481
   saturation: 0.8161625626962632
   rhythmicContrast: 0.8529777601361275
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9165245885960758
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Titanclouds
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
